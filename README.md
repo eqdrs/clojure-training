@@ -1,2 +1,1 @@
-# clojure-training
-Alura Clojure Training
+### Alura Clojure Training
